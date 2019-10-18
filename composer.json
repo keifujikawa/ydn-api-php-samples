@@ -7,7 +7,6 @@
     "ext-soap": "*",
     "ext-dom": "*",
     "ext-json": "*",
-    "ext-http": "*",
     "ext-curl": "*"
   },
   "require-dev": {
