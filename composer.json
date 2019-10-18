@@ -1,5 +1,5 @@
 {
-  "name": "yahooapis/ad-api-sample",
+  "name": "yahooapis/ydn-api-sample",
   "description": "Yahoo! Promotional Ads API Sample for PHP",
   "require": {
     "php": ">=7.1",
